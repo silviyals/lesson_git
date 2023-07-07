@@ -1,0 +1,45 @@
+#navbar {
+    background-color: rgb(153, 153, 153);
+}
+#curvious_header {
+    font-size: x-large;
+    font-family: sans-serif;
+   
+}
+#first_header {
+    font-family: cursive;
+    
+}
+#someth {
+    margin-bottom: 300px;
+}
+.h3 {
+    font-family: cursive;
+}
+#hr {
+    width: 300px;
+    color: rgb(228, 47, 15);
+    margin-left: 680px;
+    margin-top: 50px;
+}
+#paragraph {
+    text-align: center;
+    margin: 100px;
+}
+#pic-1 {
+    width: 400px;
+}
+#spfied {
+    list-style-type: none;
+}
+#inform-number {
+    background-color: rgb(162, 253, 253);
+    margin-top: 100px;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 80px;
+    margin-left: 0;
+    margin-right: 0;
+    height: 300px;
+}
