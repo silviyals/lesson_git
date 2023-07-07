@@ -43,3 +43,14 @@
     margin-right: 0;
     height: 300px;
 }
+#second-main {
+    text-align: center;
+    margin-top: 100px;
+}
+#headers {
+    text-align: center;
+    margin-top: 70px;
+}
+#icon {
+    color: rgb(35, 105, 225);
+}
